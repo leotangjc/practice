@@ -27,7 +27,7 @@ git add    把工作区内容提交到暂存区
 git commit  把暂存区内容提交到库
 
 
-git cat   查看文件
+ cat   查看文件
 
 
 git push -u <远程库名> master
