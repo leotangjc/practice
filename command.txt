@@ -39,7 +39,7 @@ git checkout -- <file>   丢弃工作区修改
 git reset HEAD <file>   撤销暂存区文件
 
 
-git remote 远程操作
+git remote 远程操作       (git remote add)远程增加        (git remote remove)远程删除
 
 
 git rm <file> 删除
