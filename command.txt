@@ -1,0 +1,51 @@
+﻿unix
+
+
+cd   目录
+
+
+ls   显示目录下文件
+
+
+pwd   显示绝对路径
+
+
+
+
+
+
+
+
+GIT指令
+
+
+git init    将当前目录变成Git可以管理的仓库
+git status   查看当前状态
+git log    查看提交日志
+git relog   查看命令历史
+git add    把工作区内容提交到暂存区
+git commit  把暂存区内容提交到库
+
+
+git cat   查看文件
+
+
+git push -u <远程库名> master
+
+
+git checkout -- <file>   丢弃工作区修改
+
+
+git reset HEAD <file>   撤销暂存区文件
+
+
+git remote 远程操作
+
+
+git rm <file> 删除
+
+
+git diff HEAD -- <file>   命令可以查看工作区和版本库里面最新版本的区别
+
+
+git touch <文件名>  新建文件
